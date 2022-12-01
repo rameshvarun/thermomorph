@@ -1,7 +1,10 @@
 # Thermomorph
 
 <p align="center">
-  <img width="400px" src="thermomorph.gif" />
+  <a href="https://varunramesh.itch.io/thermomorph"><img width="400px" src="thermomorph.gif" /></a>
+</p>
+<p align="center">
+  <a href="https://varunramesh.itch.io/thermomorph">[Play on Itch.io]</a>
 </p>
 
 This is the source code for Thermomorph, a horror game I released on Itch.io in 2018. It doesn't contain the game's assets, only the code and some external libraries. The game assets can be extracted from the `.love` distributed on itch.io. Check out [the postmortem](https://blog.varunramesh.net/posts/thermomorph-postmortem/) on my blog.
